@@ -1,0 +1,55 @@
+body {
+  border: 0rem;
+  background-color: rgb(182, 182, 182);
+  margin-left: 12rem;
+  margin-right: 12rem;
+}
+
+h1 {
+}
+
+h2 {
+}
+
+h3 {
+}
+
+h4 {
+}
+
+h5 {
+}
+
+h6 {
+}
+
+.mainart {
+  border: 4px solid violet;
+  margin: 2rem;
+}
+
+article {
+  border: 2px solid green;
+  padding: 5px;
+}
+
+.subart {
+  border: 2px solid orange;
+  padding: 5px;
+  display: flex;
+}
+
+.underart {
+  border: 2px solid yellow;
+  padding: 5px;
+}
+
+.miniart {
+  border: 2px solid blueviolet;
+  padding: 5px;
+}
+
+.nb {
+  border: 2px solid rgb(0, 59, 170);
+  padding: 5px;
+}
