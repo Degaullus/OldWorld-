@@ -1,8 +1,12 @@
+*{
+  font-family: 'Eagle Lake', serif;
+}
 body {
   border: 0rem;
   background-color: rgb(182, 182, 182);
-  margin-left: 12rem;
-  margin-right: 12rem;
+  margin-left: 8rem;
+  margin-right: 8rem;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -41,6 +45,7 @@ article {
   border: 2px solid orange;
   padding: 5px;
   display: flex;
+  flex-direction: column;
 }
 
 .underart {
